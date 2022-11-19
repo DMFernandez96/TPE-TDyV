@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-19T18:40:12 ART" name="Suite" finished-at="2022-11-19T18:41:56 ART" duration-ms="103599">
+    <groups>
+    </groups>
+    <test started-at="2022-11-19T18:40:12 ART" name="Test" finished-at="2022-11-19T18:41:56 ART" duration-ms="103599">
+      <class name="Tematika">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:Tematika@d29f28]" started-at="2022-11-19T18:40:12 ART" name="launchBrowser" finished-at="2022-11-19T18:40:42 ART" duration-ms="29792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="loadPage()[pri:1, instance:Tematika@d29f28]" started-at="2022-11-19T18:40:42 ART" name="loadPage" finished-at="2022-11-19T18:41:27 ART" duration-ms="44887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method signature="login()[pri:2, instance:Tematika@d29f28]" started-at="2022-11-19T18:41:27 ART" name="login" finished-at="2022-11-19T18:41:38 ART" duration-ms="11284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="searchBook()[pri:3, instance:Tematika@d29f28]" started-at="2022-11-19T18:41:38 ART" name="searchBook" finished-at="2022-11-19T18:41:55 ART" duration-ms="17406" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBook -->
+        <test-method signature="addToCart()[pri:4, instance:Tematika@d29f28]" started-at="2022-11-19T18:41:55 ART" name="addToCart" finished-at="2022-11-19T18:41:56 ART" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method signature="finishTest()[pri:4, instance:Tematika@d29f28]" started-at="2022-11-19T18:41:56 ART" name="finishTest" finished-at="2022-11-19T18:41:56 ART" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishTest -->
+      </class> <!-- Tematika -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
